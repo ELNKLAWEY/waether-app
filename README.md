@@ -20,20 +20,7 @@ A beautiful and modern Flutter weather application with glassmorphism UI design,
 - **Error Handling**: Graceful error messages and fallback mechanisms
 - **Loading States**: Smooth loading indicators for better UX
 
-## 🎨 Screenshots
 
-### Weather Details Screen
-![Home Screen](screenshots/1.png)
-### Select Country
-![Select Country](screenshots/2.png)
-### Select City
-![Select City](screenshots/3.png)
-### Weather Details
-![Weather Details](screenshots/4.png)
-### Favorites
-![Favorites](screenshots/5.png)
-### Settings
-![Settings](screenshots/6.png)
 
 **Features shown:**
 - Glassmorphism design with gradient background
@@ -299,6 +286,23 @@ This project is developed for educational purposes.
 - **REST Countries** for country data API
 - **Google Fonts** for Poppins font family
 - **Flutter Team** for the amazing framework
+
+---
+
+## 🎨 Screenshots
+
+### Weather Details Screen
+![Home Screen](screenshots/1.png)
+### Select Country
+![Select Country](screenshots/2.png)
+### Select City
+![Select City](screenshots/3.png)
+### Weather Details
+![Weather Details](screenshots/4.png)
+### Favorites
+![Favorites](screenshots/5.png)
+### Settings
+![Settings](screenshots/6.png)
 
 ---
 
